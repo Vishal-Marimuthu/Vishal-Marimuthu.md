@@ -1,39 +1,20 @@
-# Hi 👋 — I'm [Your Name]!
+# Hi there 👋, I'm Vishal Muthu
 
-> A developer passionate about large language models (LLMs), open-source tools, and software development.  
-> I enjoy building AI-powered solutions & exploring cutting-edge tech like DeepSeek-R1 locally.
+🎓 Computer Science Student | 💻 Aspiring Data Scientist | ⚡️ Java | Python | SQL
 
----
+- 🔭 I’m currently working on improving my DSA and Web Dev skills.
+- 🌱 I’m currently learning Data Science and AI.
+- 👯 I’m looking to collaborate on open-source AI projects.
+- 📫 How to reach me: [Your email here]
+- ⚡ Fun fact: I’m a night owl who loves coding at 2 AM!
 
-I’m a **coder** with a keen interest in artificial intelligence, machine learning, and programming. Here's what you can find here:
+<h2>🚀 Languages & Tools</h2>
 
-- 🚀 Running 8B LLMs on low-end hardware (like my RTX 4050!)
-- 💻 Building tools using Python & JavaScript
-- 🤖 Exploring the potential of open-source AI models
+<!-- Bigger badges using separate lines -->
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
----
-
-## About Me  
-A brief intro about yourself or your interests.
-
-### I like to tinker with code and build practical tools — from CLI scripts to web interfaces. Currently, I'm focused on:
-
-- **Python development** (especially AI/ML projects)
-- **Open source contributions**
-- **Command-line efficiency**
-
----
-
-## 🛠️ Projects
-
-Here are some of my favorite GitHub repositories and personal projects:
-
-### 🔍 1. *DeepSeek-R1 Quantized Models*  
-I run a DeepSeek-R1 model locally on limited hardware (like the RTX 4050). Here's how I've optimized it for even low-end GPUs...
-
-```bash
-# Example of a technical detail section:
-- Used `Ollama` to run DeepSeek-R1:8B in Q4 quantization (~5GB)  
-- Optimized context generation with minimal VRAM usage
-- Integrated LLMs into CLI tools and web-based interfaces
-
+⭐️ From [Vishal Muthu](https://github.com/vishalmuthu)
